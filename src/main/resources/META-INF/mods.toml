@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[39,)"
+license = "LGPLv3"
+
+[[mods]]
+modId = "tweakeroo"
+version = "${version}"
+displayName = "Tweakeroo"
+authors="masa"
+description = '''
+Adds a bunch of configurable client-side tweaks
+'''
